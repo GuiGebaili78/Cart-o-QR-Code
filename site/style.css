@@ -1,0 +1,46 @@
+.main {
+    background-color: #d6e1f0;
+    width: 100%;
+    height: 880px;
+}
+
+.section {
+    background-color: #ffffff;
+    width: 490px;
+    height: 700px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 20px;
+
+}
+
+.imgQrCode {
+    margin: 20px;
+    border-radius: 10px;
+    width: 450px;
+    height: 440px;
+
+}
+
+.titulo {
+    font-family: 'Outfit', sans-serif;
+    text-align: center;
+
+}
+
+.paragrafo {
+    font-family: 'Outfit', sans-serif;
+    font-size: 15px;
+    text-align: center;
+}
+
+.attribution {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    padding: 30px;
+    /* Espaçamento opcional */
+}
